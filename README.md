@@ -1,6 +1,10 @@
-# ParkinSafe
-A phone-stabilization app to assist people afflicted with Parkinsons
+﻿# ParkinSafe
 ### Winner of the Congressional App Challenge
+A phone-stabilization app to assist people afflicted with Parkinsons
+<p align="center">
+  <img src ="http://i.imgur.com/Ow6PkMz.png"/>
+</p>
+[Link to Video](https://www.youtube.com/watch?v=2oF2IFlpSpI)
 ## Problem Statement
 Parkinson’s is a degenerative disease faced by 6.3 million people worldwide. Given that one of its most common and most debilitating symptoms causes a patient to degrade in fine motor skills, using a device is very difficult. ParkinSafe allows Parkinson’s patients to use a device more easily through screen stabilization technology.
 ## Programming Difficulties
